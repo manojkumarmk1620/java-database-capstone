@@ -5,5 +5,5 @@ This Spring Boot application uses both MVC and REST controllers. Thymeleaf templ
 2. The action is routed to the appropriate Thymeleaf or REST controller.
 3. The controller calls the service layer...
 
-MySQL Database Design
-MongoDB Collection Design
+**MySQL Database Design**
+**MongoDB Collection Design**
